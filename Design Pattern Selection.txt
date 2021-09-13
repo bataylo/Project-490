@@ -1,0 +1,4 @@
+Design pattern choice: Factory Method
+
+Link to information on our particular design pattern: 
+https://sourcemaking.com/design_patterns/factory_method

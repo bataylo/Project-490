@@ -1,0 +1,5 @@
+Justin: lv.1 Collectors managing a single type of card game, lv.2 card clubs wanting to manage inventory, lv.3 large scale business wanting an online platform to sell cards.
+
+Matt: lv.1 Collectors trying to manage multiple different card games, Lv.2 small businesses trying to manage their inventory, Lv.3 A customer that wants to purchase cards online through a website sales solution.
+
+Austin:Lv.1 collectors that want to manage extremely large collections of cards of various types, lv.2 card game tornaments that want to manage cards that are legal to use in a particular tornament, Lv.3 high end collectors that want advanced grading and pricing options for expensive cards.
