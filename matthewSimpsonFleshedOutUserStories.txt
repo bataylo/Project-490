@@ -1,0 +1,5 @@
+Lv.1 As a trading card collector I want to find multiple different trading cards, so I can have a collection of cards across multiple games/ genres
+
+Lv.2 As a card or hobby shop, I want to be able to manage my inventory, so I can keep track of my inventory for my customers 
+
+Lv.3 As a trading card manufacturer, I want to be able to sort newly created cards to their correct section, so that I can make sure that my company doesn't over manufacture too many of one card. 
