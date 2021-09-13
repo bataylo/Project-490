@@ -1,0 +1,5 @@
+Justin Bartholomew: Main database table development, back-end logic and php implementation, minor Front-end user interface and design development, and managing user permissions. 
+
+Matthew Simpson: Creating and managing database table relationships, back-end logic and php implementation, minor Front-end user interface development, and assisting in creating and managing web page forms.
+
+Brian Taylor: Setting up and managing Git repositories, back-end logic and php implementation, web page design, user interface development, and creating and implementing forms to manage database tables through the web page.

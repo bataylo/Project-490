@@ -1,0 +1,8 @@
+lv.1
+As a collector, I want to be able to search through my collection, so that I can easily see if I have the card I’m looking for.
+
+lv.2
+As a tournament organizer, I want to be able to easily add and remove cards from a collection, so that I can keep an up-to-date list of banned cards from play.
+
+lv.3
+As a high-end collector, I want to be able to see the prices of my cards, so that I can quickly find out how much my collection is worth.
