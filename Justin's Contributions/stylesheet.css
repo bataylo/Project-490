@@ -1,0 +1,52 @@
+.error {
+
+    color: darkkhaki;
+
+}
+
+.success {
+
+    color: chartreuse;
+
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+
+input {
+
+    display: grid;
+    place-items: center;
+
+
+}
+
+
+.center {
+   text-align: center;
+   display: flex;
+   justify-content: center;
+}
+
+
+.centerform {
+
+    padding-left: 200pt;
+
+}
+
+
+
+footer {
+
+    text-align: center;
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+}
+
+
+
