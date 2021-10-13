@@ -20,7 +20,7 @@ require_once "includes/connect.php";
     <title>Team 2 Card Collection</title>
     <script src="https://cloud.tinymce.com/stable/tinymce.min.js?apiKey=5o7mj88vhvtv3r2c5v5qo4htc088gcb51913qx5wlrtjn81y"></script>
     <script>tinymce.init({ selector:'textarea' });</script>
-	 <link rel="stylesheet" href="includes/stylesheet.css">
+	 <link rel="stylesheet" href="stylesheet.css">
 <header>
     <nav>
        
